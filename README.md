@@ -49,7 +49,7 @@ Currently, I’m diving deep into **AWS, Linux, Docker, Kubernetes, CI/CD, Shell
 ### 📫 **Let’s Connect**  
 
 - Say hello on [LinkedIn](https://www.linkedin.com/in/apurva-gargote-32b903212/) 👨‍💻  
-- Drop me an [Email](mailto:apurvagargote@example.com) 📩
+- Drop me an [Email](mailto:apurvagargote@gmail.com) 📩
 - Read my blogs on [Hashnode](https://apurva-g.hashnode.dev/) ✍️
 
 ---  
